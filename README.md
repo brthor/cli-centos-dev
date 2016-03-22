@@ -1,4 +1,4 @@
-# Easy centos dotnet CLI dev environment
+# Quick & Easy Centos dotnet CLI dev environment
 A quick an easy dev environment for https://github.com/dotnet/cli on centos.
 
 To get started:
