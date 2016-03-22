@@ -38,7 +38,7 @@ RUN update-alternatives --set c++ /usr/bin/clang++
 RUN yum -q -y install sudo
 
 # Clone Repo
-RUN git clone https://github.com/dotnet/cli
+RUN git clone https://github.com/dotnet/cli /opt/code/cli
 
 # Set working directory
 WORKDIR /opt/code/cli
